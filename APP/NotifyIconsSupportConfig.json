@@ -5963,5 +5963,14 @@
     "contributorName": "PianCat",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "Notify for Xiaomi",
+    "packageName": "com.mc.xiaomi1",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAQAAAD/5HvMAAADQUlEQVR42u3WXWiWZRgH8MuZlpumZolRURYKpiCURXZSUJZYZutIakhmG0hBUp5EyLQTQyLpwMRMpCIhjdkHlqaVFJTix/CzoI+ZmW41yE0nyj5+jfHy8L707v3YwZB4fs/RfR1c7/+9uO/nfiKVSqVSqVQqlUqlLh9m+tBX3jI9LgfmaAOcHuRIKj1nrdXq3JBVO0CiwZAYLCp9DOCkJSr6qjdqhqR+TRThFvMsUOvZok+t+aZEfyyVa7MxEUY6lh2ot1aQxVqV47xVhudrdK3f0aPeLBt0gh1GR6gnsS4K8oQe5XslX6tqsCuzekwT2OIKVda7gA4fGBcF+dxA/Jav1TJQm6w3AGr6VtPNMzWKMMw+A9GSr9kadLors5qtHXBUVZTICIcAR9UUCfeHOjsAzfma1epwWFVmHi0kqss4p0cAx4022nb9aTQpws5kQvm425TM9j4s29tRIlWOAthrgmEa5POD64y0DcBf0T9X+USubw0pOdAxEkf0/kEbkWubq03wDaUFegO5mlQNKBB/uifCa7JtUuF2xykpkEf1kFhnNzot0jsjFSZ5wYKCm7pRrrMeivASgNWGmqFVrubojy0kNka4Xzcu2e4dX2sHc6MfrnRArnPmRS812lAfvdzpVImBVGoE8L2+neNluc57oMD+OyjbCfdGWGlFhPvU9F0sayNMtKe0QJOdA9Dk4Uz1afu1uajDae+ZUfBANJI44tYI68GazG3ZjQZVxthF4kzk50nZuqzMvJeGm2ymO4yPRNFA+91kqE0AGrwLYLfxKm0FcDrysxndnjHHTsCXubd7yYF+NNYon+pPY9/0tgNORT6macd30UuFxf4Bq8sKdBBwXI29Cjlhkd2Ak/maDbEVLEwqM/yEM66PEhlun4E4ka/ZCrDHiEj4CO2mRMl8YSB++e90loMLZia1Udboxj5JxOLM1aV8yyKb27wPqMtUxnrKQcDCKIs6f5cRqke75YZG8sMPelMruOT5vtpUr/oZcNEqw6JMJpql2uOKP9UeMTn7c/xXXYCmzCt+vrMADpkdg0kboMXrMidJPWjTYL5RMbgs9ZnNlrg5EsZZ4UXTIpVKpVKpVCqVSqX+Z/4F7jHEu3I/ioIAAAAASUVORK5CYII=",
+    "iconColor": "#ff5900",
+    "contributorName": "lamprose",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
